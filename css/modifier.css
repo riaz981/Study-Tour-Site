@@ -1,0 +1,19 @@
+.header{
+ background: url(../img/TopImageNetwealth.jpg) no-repeat center center scroll;
+    height: 46%;
+}
+
+.text-vertical-center{
+	padding-top: 215px;
+}
+
+.callout {
+
+    background: url(../img/SecondImageNetwealth.jpg) no-repeat center center scroll;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.bx-has-pager{
+	display: none;
+}
